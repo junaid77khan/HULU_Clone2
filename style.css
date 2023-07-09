@@ -275,6 +275,11 @@
     gap: 50px;
 }
 
+.nav-top:hover{
+    cursor: pointer;
+    color: rgb(169, 164, 164);
+}
+
 
 .main-container3 h1{
     font-size: 70px;
@@ -426,6 +431,7 @@
 
 .head3-btn2:hover{
     filter: brightness(80%);
+    cursor: pointer;
 }
 
 .head3-next{
@@ -457,6 +463,7 @@
 
 .head3-next-btn2:hover{
     filter: brightness(80%);
+    cursor: pointer;
 }
 
 .header1-container4{
@@ -546,6 +553,10 @@
     border-bottom: 1px solid gray;
 }
 
+.BOX1:hover{
+    cursor: pointer;
+}
+
 .flex-item{
     display: flex;
     align-items: center;
@@ -566,6 +577,10 @@
     gap: 50px;
     padding-top: 0px;
 }
+.images:hover{
+    cursor: pointer;
+}
+
 
 .fb{
     width: 20px;
@@ -582,4 +597,8 @@
     align-items: center;
     gap: 60px;
     font-size: 20px;
+}
+
+.pointer:hover{
+    cursor: pointer;
 }
